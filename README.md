@@ -7,7 +7,7 @@
 [![Stack](https://img.shields.io/badge/stack-FastAPI%20%7C%20Next.js%20%7C%20AI-111827)](#)
 [![License](https://img.shields.io/badge/license-proprietary_showcase-7c2d12)](LICENSE)
 
-MarketForge AI is the public portfolio identity for the former Hichem-AI / Image Factory project. It combines product image acquisition, product intelligence, keyword research, competitor analysis, AI image generation, regional audience targeting, cloud asset management, and product content automation.
+MarketForge AI is an AI commerce intelligence platform for sellers, agencies, and product teams. It combines product image acquisition, product intelligence, keyword research, competitor analysis, AI image generation, regional audience targeting, cloud asset management, and product content automation.
 
 This repository is a public product showcase. Production code, scraping strategies, AI prompts, provider integrations, credentials, and operational workflows are intentionally private.
 
@@ -95,7 +95,16 @@ The result is a sales-ready product package with research context, copy, keyword
 
 ## Product Screenshots
 
-Screenshots should be captured from a sanitized demo environment only.
+Screenshots should be captured from a sanitized demo environment only. Once you capture them, place them in `screenshots/` using these names so the README can display them cleanly.
+
+| View | Purpose | File |
+| --- | --- | --- |
+| Product Intelligence Dashboard | First impression of the SaaS workflow | `screenshots/01-product-intelligence-dashboard.png` |
+| Opportunity Report | Shows the import decision report | `screenshots/02-opportunity-report.png` |
+| Keyword Explorer | Shows keyword demand and opportunity | `screenshots/03-keyword-explorer.png` |
+| Competitor Analysis | Shows market/competitor intelligence | `screenshots/04-competitor-analysis.png` |
+| AI Image Plan | Shows research-to-image-generation connection | `screenshots/05-ai-image-plan.png` |
+| Product Package Export | Shows seller-ready exports | `screenshots/06-product-package-export.png` |
 
 - Hero dashboard screenshot: `screenshots/01-product-intelligence-dashboard.png`
 - Product opportunity report: `screenshots/02-opportunity-report.png`
